@@ -1,0 +1,11 @@
+aiocontextvars==0.2.2
+contextvars==2.4
+grpcio==1.38.1
+grpcio-tools==1.38.1
+immutables==0.15
+loguru==0.5.3
+passlib==1.7.4
+peewee==3.14.4
+protobuf==3.17.3
+PyMySQL==1.0.2
+six==1.16.0
